@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjQshxvCtA4AenDbUWDFHDT/UUYZz3oDPeVNlpEcWcJyWS0IiuKUyebCqcbCMx/9q+I+iKm+O5MrCVjxnk+pTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55149\\Desktop\\Work Space - Visual Studio\\Desafio_Enumeração_Composição\\Desafio_Enumeração_Composição\\Desafio_Enumeração_Composição.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55149\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

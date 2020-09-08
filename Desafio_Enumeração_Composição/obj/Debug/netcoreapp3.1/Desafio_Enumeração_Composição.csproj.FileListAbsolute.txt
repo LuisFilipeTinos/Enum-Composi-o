@@ -1,0 +1,13 @@
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\bin\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.exe
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\bin\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.deps.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\bin\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.runtimeconfig.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\bin\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.runtimeconfig.dev.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\bin\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\bin\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\obj\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.csprojAssemblyReference.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\obj\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.AssemblyInfoInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\obj\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.AssemblyInfo.cs
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\obj\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.csproj.CoreCompileInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\obj\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\obj\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\Desafio_Enumeração_Composição\Desafio_Enumeração_Composição\obj\Debug\netcoreapp3.1\Desafio_Enumeração_Composição.genruntimeconfig.cache
